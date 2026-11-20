@@ -8,3 +8,5 @@ Momentum Lady v4.1 - Supabase experimental
 7. Teste uma tarefa e aguarde status Sincronizado.
 8. Em caso de conflito, exporte backup e escolha manualmente qual cópia manter. Não há merge automático.
 9. Essa versão usa um documento JSON por usuário para simplificar a migração; versão posterior pode normalizar tabelas.
+
+Correção v4.1.1: conexão sem sessão não gera Auth session missing; formulário de cadastro aparece.
