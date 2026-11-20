@@ -1,0 +1,10 @@
+Momentum Lady v4.1 - Supabase experimental
+1. Faça backup JSON no app atual.
+2. Crie projeto Supabase e execute schema.sql no SQL Editor.
+3. Authentication > Providers > Email: habilite email/senha.
+4. Publique os arquivos index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png no GitHub Pages. NÃO publique senhas nem service_role.
+5. Configurações > Minha nuvem: Project URL e Publishable Key. Crie conta, confirme email, entre.
+6. No aparelho com seus dados originais: Enviar meus dados locais. No segundo: Baixar dados da nuvem.
+7. Teste uma tarefa e aguarde status Sincronizado.
+8. Em caso de conflito, exporte backup e escolha manualmente qual cópia manter. Não há merge automático.
+9. Essa versão usa um documento JSON por usuário para simplificar a migração; versão posterior pode normalizar tabelas.
