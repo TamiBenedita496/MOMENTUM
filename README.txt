@@ -1,1 +1,5 @@
-Momentum Lady Edition v4 — recorrências diárias/semanais/mensais, botão Hoje para tarefas atrasadas e limpeza seletiva. Dados continuam locais, sem sincronização Supabase. Faça backup antes de atualizar. Publique todos os arquivos na raiz do GitHub Pages.
+Momentum Lady Edition 4.3.1
+Arquivos do site: index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png.
+Instalação do envio automático: leia GUIA-INSTALACAO.md.
+SQL novo: supabase/notifications.sql. NÃO reexecute schema.sql.
+A entrega às 06h30 exige implantação e agendamento; o ZIP sozinho não ativa o servidor.
