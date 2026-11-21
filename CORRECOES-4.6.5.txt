@@ -1,0 +1,4 @@
+Momentum 4.6.5: correções do Meu dia, checkbox alinhado e botão de recolher subtarefas.
+Meu dia: tarefas com intervalo ativo, vencidas pendentes e sem data pendentes; tarefas concluídas com data de hoje permanecem visíveis.
+Som do Pomodoro preservado.
+Não importe o JSON no aplicativo se a nuvem já está sincronizada; backup foi usado somente para verificar a estrutura.
