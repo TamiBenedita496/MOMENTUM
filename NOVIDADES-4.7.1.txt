@@ -1,0 +1,1 @@
+Filtros de tarefas por múltiplos status; tarefas concluídas ao final; opção para ocultar concluídas na pesquisa. Não altera banco nem dados.
